@@ -48,3 +48,15 @@
 * pharmacy
 * bakery
 * cinema
+
+5.Learn English - English Body Parts Vocabulary
+* head 
+* eye
+* nose
+* ear
+* mouth
+* hand
+* arm
+* leg
+* foot
+* stomach
