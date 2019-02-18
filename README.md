@@ -16,7 +16,6 @@
 * watermelon
 * peach
 * strawberry
-* strawberry
 * apple
 * banana
 * orange
