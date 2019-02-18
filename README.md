@@ -12,3 +12,39 @@
 * bean
 * spinach
 
+2.Learn English - English Fruit Vocabulary
+* watermelon
+* peach
+* strawberry
+* strawberry
+* apple
+* banana
+* orange
+* mango
+* cherry
+* pineapple
+* melon
+
+3.Learn English - English Vehicles Vocabulary
+* car
+* bus
+* airplane
+* helicopter
+* boat
+* truck
+* bicycle
+* motorcycle
+* skateboard
+* ski
+
+4.Learn English - English Building Vocabulary
+* hospital
+* police station
+* post office
+* bank
+* supermarket
+* shop
+* library
+* pharmacy
+* bakery
+* cinema
