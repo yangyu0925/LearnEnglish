@@ -103,4 +103,72 @@
 * the robot is moving its arms
 * the woman is swimming in the pool
 
-16
+16.Learn English with Video - Talk About Hobbies in English
+* the artist is drawing a picture
+* the dancers are dancing on the platform
+* the singer is singing a song
+* the woman is exercising on the floor
+* the woman is listening to music
+
+17.Learn English with Video - English Expressions That Help with the Housework 1
+* the housekeeper is cleaning the window
+* the woman is sweeping outside
+* the boy is washing the dishes
+* the boy is throwing out the trash
+* the homemaker is vacuuming the carpet
+
+18.Learn English with Video - English Expressions That Help with the Housework 2
+* the housekeeper is mopping the floor
+* the man is scrubbing the oven
+* the maid is making the bed in a hotel room
+* the woman is preparing a snack
+* the woman is putting away the clothes
+
+19.Learn English with Video - English Words for the Workplace
+* the employees are working ate the office
+* the people are attending the meeting
+* the entrepreneur is making a presentation in the office
+* the woman achieved the goal
+* the manager is taking a break at the desk
+
+20.Learn English with Video - Don't Shop in English Without These Words
+* the customer is shopping at the supermarket
+* the couple is buying clothes
+* the children are selling lemonade
+* the man is  trying on the suit
+* the customer is paying at the register
+
+21.Learn English with Video - English Recipes for Fluency
+* the chef is cooking in the kitchen
+* the cook is frying an egg
+* the woman is baking a cake
+* the woman is cutting the grapefruit
+* the cook is barbecuing the chicken
+
+22.Learn English with Video - Get Dressed -- and Undressed -- with English
+* the girl is putting on the coat
+* the lawyer is taking off his clothes
+* the girl is putting on her shoe
+* the high school student is tying his shoe lace
+* the model is putting on make up
+
+23.Learn English with Video - How to Put Feelings into English Words
+* the farmer is touching the wheat
+* the tourist is tasting the insect
+* the students smell an odor
+* the boy hears the sound of the ocean
+* the tourists watch the sunset
+
+24.Learn English with Video - 5 Must-Know English Words 1
+* the ducklings are following the mother duck
+* the saleswoman is showing jewelry
+* the people are saying, "Hello"
+* the girl has a piggy bank
+* the caterpillar is becoming a butterfly
+
+25.Learn English with Video - 5 Must-Know English Words 2
+* the man loves the woman 
+* the couple is laughing at the picture
+* the woman is worried about the bill
+* the sons are helping their mother
+* the woman is smiling at you
